@@ -40,5 +40,7 @@ L'ecosistema si compone di tre macro-moduli integrati:
 ### 🔒 Accesso al Codice Sorgente
 
 > **Nota di Riservatezza:**  
-> I repository contenenti il codice sorgente dell'infrastruttura, del backend e degli algoritmi AI sono attualmente **ad accesso riservato** per ragioni di proprietà intellettuale e sviluppo industriale.  
+> I repository contenenti il codice sorgente dell'infrastruttura, del backend e degli algoritmi AI sono attualmente **ad accesso riservato** per ragioni di proprietà intellettuale e sviluppo industriale.
+
+> 🌐 Visita il sito: **[culturia.di.unisa.it](https://culturia.di.unisa.it)**.
 > Per richieste di partnership, informazioni tecniche o accesso a sessioni dimostrative: **culturiait@gmail.com**
